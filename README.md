@@ -1,4 +1,4 @@
 # hello-world
-A repository for playing.
+A repository for playing!
 
-Norwegians are spoild!
+LoveTrumpHates
